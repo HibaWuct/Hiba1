@@ -1,0 +1,10 @@
+{"Assignment":[{"ItemName":"laptop","ItemCategory":"IT","ItemPrice":"300","ItemQuantity":"3"},
+	       {"ItemName":"television","ItemCategory":"electronic","ItemPrice":"400","ItemQuantity":"7"},
+	       {"ItemName":"radio","ItemCategory":"electronic","ItemPrice":"350","ItemQuantity":"5"},
+               {"ItemName":"smartphone","ItemCategory":"electronic","ItemPrice":"200","ItemQuantity":"2"},
+               {"ItemName":"radio","ItemCategory":"electronic","ItemPrice":"300","ItemQuantity":"3"},
+	       {"ItemName":"telephone","ItemCategory":"electronic","ItemPrice":"50","ItemQuantity":"4"},
+               {"ItemName":"Pc","ItemCategory":"IT","ItemPrice":"700","ItemQuantity":"9"},
+               {"ItemName":"clothes","ItemCategory":"clothes","ItemPrice":"70","ItemQuantity":"8"},
+               {"ItemName":"accessories","ItemCategory":"accessory","ItemPrice":"20","ItemQuantity":"10"},
+               {"ItemName":"tablet","ItemCategory":"IT","ItemPrice":"450","ItemQuantity":"6"}]}
